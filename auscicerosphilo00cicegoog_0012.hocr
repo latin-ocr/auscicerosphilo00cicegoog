@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "auscicerosphilo00cicegoog_0012.png"; bbox 0 0 2986 4334; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 162 1856 1404 1927">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 162 1856 1404 1927">
+     <span class='ocr_line' id='line_1_1' title="bbox 162 1856 1404 1927; baseline 0 -14"><span class='ocrx_word' id='word_1_1' title='bbox 162 1865 241 1914; x_wconf 84' lang='lat' dir='ltr'>Alle</span> <span class='ocrx_word' id='word_1_2' title='bbox 257 1865 396 1924; x_wconf 83' lang='lat' dir='ltr'>Rechte,</span> <span class='ocrx_word' id='word_1_3' title='bbox 415 1856 1404 1927; x_wconf 74' lang='lat' dir='ltr'>einschliesslichdesUbersetzungsrechtes‚vorbehalten.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 505 3583 1060 3638">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 505 3583 1060 3638">
+     <span class='ocr_line' id='line_1_2' title="bbox 505 3583 1060 3638; baseline -0.005 -10"><span class='ocrx_word' id='word_1_4' title='bbox 505 3586 578 3628; x_wconf 80' lang='lat' dir='ltr'>Druck</span> <span class='ocrx_word' id='word_1_5' title='bbox 590 3597 633 3626; x_wconf 77' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_6' title='bbox 647 3583 760 3626; x_wconf 73' lang='lat' dir='ltr'><strong>Gobriider</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 773 3585 852 3637; x_wconf 72' lang='lat' dir='ltr'><strong>Stiepel</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 866 3589 888 3626; x_wconf 87' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_9' title='bbox 903 3585 1060 3638; x_wconf 70' lang='lat' dir='ltr'>Reichenbetg.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1498 4334">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1498 4334">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1498 4334; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1498 4334; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
